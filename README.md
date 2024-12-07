@@ -9,7 +9,7 @@ _(referenced from python notebook)_
 
 *Wee Kai Yi*
 
-*Wai Yan Min Ko Ko* _(Team Lead)_
+*Wai Yan Min Ko Ko (Team Lead)*
 <br><br>
 
 **Team Allocation Simulator**
